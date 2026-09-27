@@ -113,7 +113,6 @@ button {
     transition: background-color 0.2s ease, transform 0.2s ease;
 }
 
-/* PRIMARY ACTION BUTTONS */
 .open-btn,
 .convert-btn {
     background-color: #e53e3e;
@@ -211,11 +210,9 @@ button {
     body {
         padding: 25px 15px;
     }
-
     .cards-container {
         grid-template-columns: 1fr;
     }
-
     header h1 {
         font-size: 2.1rem;
     }
